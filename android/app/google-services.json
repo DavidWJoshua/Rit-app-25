@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386247410897",
+    "project_id": "rit-app-25",
+    "storage_bucket": "rit-app-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386247410897:android:e9c2970fd7043981e971f0",
+        "android_client_info": {
+          "package_name": "com.example.civil_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsmtggP36pDujB8mWTE0mZ9edf-tI-d6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
